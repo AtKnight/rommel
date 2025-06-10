@@ -8,4 +8,5 @@ else:
   print("verlaag a")
   a -= 1
 
-print(resultaat a" , a)
+print("resultaat a" , a)
+# FOUT VERBETERD
